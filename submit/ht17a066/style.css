@@ -1,5 +1,5 @@
 
-@inport url('https://fonts.googleapis.com/css?family=Noto+Serif+JP&display=swap')
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+JP&display=swap');
 
 h1 {
     background-color: #4FC3F7;
