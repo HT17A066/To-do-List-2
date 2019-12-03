@@ -1,3 +1,6 @@
+
+@inport url('https://fonts.googleapis.com/css?family=Noto+Serif+JP&display=swap')
+
 h1 {
     background-color: #4FC3F7;
     color: #fff;
@@ -71,6 +74,10 @@ input[type=button]:active {
 
 input[type=checkbox]{
     margin: 10px 
+}
+
+body {
+    font-family: 'Noto Serif JP', serif;
 }
 
 .del-button {
